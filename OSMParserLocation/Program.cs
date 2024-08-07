@@ -2,4 +2,4 @@
 
 var runscript = new GetGeoJson();
 
-await runscript.Run();
+await runscript.GetDataJson("Москва");
